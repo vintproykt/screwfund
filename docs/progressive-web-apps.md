@@ -1,5 +1,5 @@
 ---
-title: Progressive Web Apps 2
+title: New post
 ---
 Изменения
 123
